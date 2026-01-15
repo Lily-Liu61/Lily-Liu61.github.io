@@ -10,6 +10,7 @@
 
 ### University of Washington
 **B.A. in Geography: Data Science**
+
 ####Sep 2022 – Jun 2026
 ---
 
