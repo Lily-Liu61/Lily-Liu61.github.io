@@ -11,6 +11,9 @@
 ### University of Washington
 **B.A. in Geography: Data Science**
 #### Sep 2022 – Jun 2026
+
+![University of Washington](https://image-static.collegedunia.com/public/college_data/images/studyabroad/appImage/college_2096_29-18:12_University_of_Washington_Seattle.jpeg)
+
 ---
 
 ## Skills
@@ -33,12 +36,13 @@
 
 ---
 
-## Selected Projects
+## Projects
 
-### Seattle EV Charging Stations Interactive Map
+### Seattle EV Charging Stations Interactive Map 
 - Built a Mapbox GL JS web map with clustering, filters, and radius search
 - Led a team of 5 and deployed a responsive interactive UI
-
+- [Seattle-EV-Stations Work Page](https://github.com/lizbethsarabia/Seattle-EV-Stations-Web-Map)
+  
 ### Crime Event Spatiotemporal Analysis Dashboard
 - Retrieved and standardized event data via APIs
 - Created an interactive Folium dashboard with hotspot animation
