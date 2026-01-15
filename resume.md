@@ -2,7 +2,7 @@
 
 > “Spatial data turns cities into readable systems.”
 
-📍 Seattle, WA
+📍 Seattle, WA  
 🔗 [Github Link](https://github.com/Lily-Liu61)
 
 ---
